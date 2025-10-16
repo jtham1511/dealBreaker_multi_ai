@@ -56,7 +56,7 @@ export default async function handler(req, res) {
     "- Yong NB (GITL-Advisor): 566 reports, 15 calls, 2 conferences = 583 total activities (Average: 29.2 per month).",
     "- Tee YY (GITL-Advisor): 530 reports, 8 calls, 1 conference = 539 total activities (Average: 27.0 per month).",
     "- YZ Feng (CDAO): 300 reports, 22 calls, 7 conferences = 329 total activities (Average: 16.5 per month).",
-    "- AGGREGATE TOTALS: 7,003 total reports, 332 total calls, 48 total conferences, 7,383 total activities with average 194.3 activities per user.",
+    "- AGGREGATE TOTALS: 7,003 total reports, 332 total calls, 48 total conferences, 7,383 total activities with average 194.3 activities per user."
   ].join(" ");
 
   // Build messages with recent history
